@@ -3,13 +3,13 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <kelvinehiz@gmail.com>, 2024.
 #
-msgid " home_title" "home_header "
-msgstr "Bienvenue chez Holberton " "Bonjour monde! "
+msgid "home_title" "home_header"
+msgstr "Bienvenue chez Holberton" "Bonjour monde!"
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-31 01:30+0000\n"
-"PO-Revision-Date: 2024-07-31 01:30+0000\n"
-"Last-Translator: KELVIN EHIZOJIE <kelvinehiz@gmail.com>\n"
+"Report-Msgid-Bugs-To: kelvinehiz@gmail.com\n"
+"POT-Creation-Date: 2024-08-02 04:06+0000\n"
+"PO-Revision-Date: 2024-08-02 04:06+0000\n"
+"Last-Translator: KELVIN FRANCIS <kelvinehiz@gmail.com>\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
